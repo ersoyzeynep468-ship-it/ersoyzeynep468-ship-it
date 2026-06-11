@@ -9,7 +9,7 @@ I am a Computer Engineering student focused on software development, autonomous 
 - **Programming Languages:** C#, Python, C++, C
 - **Frameworks & Libraries:** .NET Framework, Windows Forms, ROS2, YOLO
 - **Hardware & Embedded:** ESP32-C3, Arduino IDE, Circuit Design & Prototyping
-- **Tools:** Visual Studio, Git, GitHub
+- **Tools:** Visual Studio, GitHub
 
 ## 🚀 Current Focus & Projects
 
